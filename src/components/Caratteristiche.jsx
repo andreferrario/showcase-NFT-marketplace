@@ -22,13 +22,16 @@ const Caratteristiche = () => {
               Tecnologia
               </h1>
             <p className={`${styles.pText} ${styles.whiteText}`}>
-              OrionAI è stata sviluppata usanto una tecnologia multi-piattaforma, che permette di essere utilizzata da più sistemi operativi. Questa tencologia è React Native 
+              Orion AI Exchange è stata programmata con React Native, una tencologia multi-piattaforma. <br />
+              Invece Solidity permette di certificare le transazioni degli utenti sulla blockchain. 
             </p>
           </div>
           
           <div className={styles.flexWrap}>
             <FeatureCard iconUrl={assets.react} iconText="React Native" />
             <FeatureCard iconUrl={assets.javascript} iconText="Javascript" />
+            <FeatureCard iconUrl={assets.solidity} iconText="Solidity" />
+
           </div>
         </div>
     </div>

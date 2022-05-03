@@ -21,7 +21,7 @@ const Download = () => {
           className={styles.btnPrimary}
           onClick={() => window.open(GitUrl, '_blank')}
         >
-          Source Code
+          Codice Sorgente
         </button>
         <div className={styles.flexCenter}>
           <img src={assets.scene} alt="download bg" className= {styles.fullImg} />
