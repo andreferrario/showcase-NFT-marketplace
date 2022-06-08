@@ -6,5 +6,5 @@ Pagina che sponsorizza l'applicazione Orion AI Exchange
 
 
 ## INFORMAZIONI
-- [Sito Web](https://showcaseexchange.on.fleek.co/)
+- [Sito Web](https://showcase-nft-marketplace-blond.vercel.app/)
 - [Codice Sorgente App](https://github.com/ItaOrionAI/NFT-marketplace-mobile-app.git)
